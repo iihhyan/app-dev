@@ -22,6 +22,8 @@ It is the one and only ***The Legend of Zelda: Tears of the Kingdom***
 ---
 
 [Trailer] (https://www.youtube.com/watch?v=uHGShqcAHlQ)
+![Logo] (![image](https://github.com/iihhyan/app-dev/assets/133612793/9cb70346-830e-4b8c-8b50-49eba6b6e2e4))
+
 
 ---
 'import java.util.Scanner;'
