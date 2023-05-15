@@ -9,3 +9,9 @@ I **really** want to play *The Legend of Zelda: Tears of the Kingdom!*
 1. It's a Zelda game
 2. It's the sequel of *the* Zelda game
 3. It's made by Nintendo!
+4. My friends told me that this is the best game ever
+**Friends such as:**
+- Hugo
+- Sean
+- Daniel
+- Sam
