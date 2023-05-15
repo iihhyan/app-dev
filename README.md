@@ -11,14 +11,15 @@ It is the one and only ***The Legend of Zelda: Tears of the Kingdom***
 2. It's the sequel of *the* Zelda game
 3. It's made by Nintendo!
 4. My friends told me that this is the best game ever
+
 **Friends such as:**
 - Hugo
 - Sean
 - Daniel
 - Sam
 ---
-'import java.util.Scanner;
-public class NewClass { public static void main(String[] args)
-System.out.print("The Legend of Zelda: Tears of the Kingdom");'
----
+'import java.util.Scanner;'
+'public class NewClass { public static void main(String[] args)'
+'System.out.print("The Legend of Zelda: Tears of the Kingdom");'
+
 [Trailer] (https://www.youtube.com/watch?v=uHGShqcAHlQ)
